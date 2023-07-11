@@ -8,8 +8,9 @@
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
 <!-- Badges => Alamin031|Repo-Name  -->
  <p align="center">
-<!--     <img src="https://img.shields.io/badge/view-Interstellar_Library-blue?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
- </p> -->
+<img src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FAlamin031%2FHr-Tech
+?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
+ </p>
  
    
 <p align="center">
