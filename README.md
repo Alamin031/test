@@ -4,11 +4,11 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <!-- Logo -->
-<img src="[https://raw.githubusercontent.com/yaarian-om/SERVER/a700d4c135a558cce62b85dba7225760c459197d/1010110010/Interstellar-Library/Logo.svg](https://github.com/Alamin031/ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY/blob/master/hr-tech-logo/svg/logo-color.svg)" alt="Interstellar Library Logo" width="100%" height="250"/>
+<img src="https://github.com/Alamin031/ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY/blob/master/hr-tech-logo/svg/logo-color.svg" alt="Interstellar Library Logo" width="100%" height="250"/>
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
  <p align="center">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
-    <img src="https://img.shields.io/github/stars/yaarian-om/HR_TECH?style=social" alt="Repo-Stars"/>
+    <img src="https://img.shields.io/github/stars/yaarian-om/Interstellar_Library?style=social" alt="Repo-Stars"/>
 </p>
 <!-- Badges => Yaarian-OM|Repo-Name  -->
  <p align="center">
