@@ -8,18 +8,13 @@
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
  <p align="center">
     <img src="https://img.shields.io/badge/https%3A%2F%2Falamin031.github.io%2FMd-Al-Amin-Chowdhury%2F?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
-<!--     <img src="https://img.shields.io/github/Alamin031/Hr-Tech?style=social" alt="Repo-Stars"/> -->
+    <img src="https://img.shields.io/github/Alamin031/Hr-Tech?style=social" alt="Repo-Stars"/>
 </p>
 <!-- Badges => Yaarian-OM|Repo-Name  -->
  <p align="center">
     <img src="https://img.shields.io/badge/view-Interstellar_Library-blue?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
  </p>
- <!-- Badges => Forks, Tags, Issues, Language -->
- <p align="center">
-    <img src="https://img.shields.io/github/forks/yaarian-om/OPEN-SCHOOL?style=social" alt="Repo-Forks"/>
-    <img src="https://img.shields.io/github/issues/yaarian-om/OPEN-SCHOOL" alt="Repo-Issues"/>
-    <img src="https://badgen.net/badge/Project-Stats/Under-Construction/green?icon=github" alt="Project-Stats"/>
- </p>
+ 
    
 <p align="center">
   <h3><b>Used in Project:</b></h3>
