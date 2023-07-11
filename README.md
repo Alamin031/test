@@ -6,10 +6,6 @@
 <!-- Logo -->
 <img src="https://github.com/Alamin031/Hr-Tech/blob/master/hr-tech-logo/svg/logo-color.svg" alt="Hr Tech" width="100%" height="250"/>
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
- <p align="center">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Falamin031.github.io%2FMd-Al-Amin-Chowdhury%2F?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
-    <img src="https://img.shields.io/github/Alamin031/Hr-Tech?style=social" alt="Repo-Stars"/>
-</p>
 <!-- Badges => Yaarian-OM|Repo-Name  -->
  <p align="center">
     <img src="https://img.shields.io/badge/view-Interstellar_Library-blue?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
