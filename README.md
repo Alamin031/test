@@ -4,10 +4,10 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <!-- Logo -->
-<img src="https://github.com/Alamin031/Hr-Tech/blob/master/hr-tech-logo/svg/logo-color.svg" alt="Interstellar Library Logo" width="100%" height="250"/>
+<img src="https://github.com/Alamin031/Hr-Tech/blob/master/hr-tech-logo/svg/logo-color.svg" alt="Hr Tech" width="100%" height="250"/>
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
  <p align="center">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
+    <img src="https://img.shields.io/badge/https://alamin031.github.io/Md-Al-Amin-Chowdhury/?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
 <!--     <img src="https://img.shields.io/github/Alamin031/Hr-Tech?style=social" alt="Repo-Stars"/> -->
 </p>
 <!-- Badges => Yaarian-OM|Repo-Name  -->
