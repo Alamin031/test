@@ -7,12 +7,6 @@
 <img src="https://github.com/Alamin031/Hr-Tech/blob/master/hr-tech-logo/svg/logo-color.svg" alt="Hr Tech" width="100%" height="250"/>
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
 <!-- Badges => Alamin031|Repo-Name  -->
- <p align="center">
-<img src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FAlamin031%2FHr-Tech
-?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
- </p>
- 
-   
 <p align="center">
   <h3><b>Used in Project:</b></h3>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" class="d-inline-block"/>
