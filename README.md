@@ -8,7 +8,7 @@
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
  <p align="center">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
-    <img src="https://img.shields.io/github/stars/yaarian-om/Interstellar_Library?style=social" alt="Repo-Stars"/>
+    <img src="https://img.shields.io/github/stars/yaarian-om/HR_TECH?style=social" alt="Repo-Stars"/>
 </p>
 <!-- Badges => Yaarian-OM|Repo-Name  -->
  <p align="center">
