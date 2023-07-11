@@ -6,10 +6,10 @@
 <!-- Logo -->
 <img src="https://github.com/Alamin031/Hr-Tech/blob/master/hr-tech-logo/svg/logo-color.svg" alt="Hr Tech" width="100%" height="250"/>
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
-<!-- Badges => Yaarian-OM|Repo-Name  -->
+<!-- Badges => Alamin031|Repo-Name  -->
  <p align="center">
-    <img src="https://img.shields.io/badge/view-Interstellar_Library-blue?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
- </p>
+<!--     <img src="https://img.shields.io/badge/view-Interstellar_Library-blue?style=for-the-badge" alt="Yaarian-OM|Interstellar-Library"/>
+ </p> -->
  
    
 <p align="center">
